@@ -29,6 +29,7 @@ A pokemon-style rpg Java game that utilizes tile-based map system, player moveme
 
 
 # 📂 Program Structure
+```
 src/
  ├── main/
  │   ├── GamePanel.java
@@ -49,7 +50,7 @@ src/
      ├── sprites
      ├── maps
      └── ui
-
+```
 # 🧠 What I learned
 - How to build a game using a tile-based system
 - Implement collision detection
