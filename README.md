@@ -69,6 +69,16 @@ src/
 - Implement a save and load file system
 - Expand map
 
+## Screenshots
+# World Exploration 
+![World Exploration](screenshots/WorldExploration.png)
+
+# Starter Selection
+![Starter Selection](screenshots/StarterPokemonSelection.png)
+
+# Battle System (WIP)
+![Battle System](screenshots/PokemonBattle.png)
+
 # 👨‍💻 Programmer 
 Darsh Patel
 Software Engineering Student - Western University
