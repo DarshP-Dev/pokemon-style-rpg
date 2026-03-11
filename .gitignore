@@ -1,0 +1,12 @@
+# Java build files
+*.class
+
+# IntelliJ files
+.idea/
+
+# build folders
+out/
+build/
+
+# OS files
+.DS_Store
