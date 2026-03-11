@@ -31,25 +31,29 @@ A pokemon-style rpg Java game that utilizes tile-based map system, player moveme
 # 📂 Program Structure
 ```
 src/
- ├── main/
+ ├── map/
+ │   ├── CollisionChecker.java
+ │   ├── Dialogue.java
  │   ├── GamePanel.java
- │   ├── Player.java
- │   ├── Pokemon.java
- │   ├── BattleSystem.java
+ │   ├── KeyHandler.java
+ │   ├── MenuScreen.java
+ │   ├── PokemonBattle.java
+ │   ├── PokemonCentre.java
+ │   ├── PokemonStats.java
+ │   ├── StarterPokemon.java
+ │   ├── Store.java
  │   └── Main.java
  │
  ├── entity/
- │   ├── NPC.java
- │   └── Enemy.java
+ │   ├── Entity.java
+ │   ├── PlayerPokemon.java
+ │   ├── Pokemon.java
+ │   └── Player.java
  │
- ├── tile/
- │   ├── TileManager.java
- │   └── MapData.txt
- │
- └── assets/
-     ├── sprites
-     ├── maps
-     └── ui
+ └── tile/
+     ├── TileManager.java
+     └── Tile.txt
+
 ```
 # 🧠 What I learned
 - How to build a game using a tile-based system
